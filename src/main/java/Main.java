@@ -27,7 +27,7 @@ public class Main {
         System.out.println(isNotEqual);
         boolean isGreater = x > y;
         System.out.println(isGreater);
-        boolean isLess = x < y; // меньше
+        boolean isLess = x < y;
         System.out.println(isLess);
         boolean isGreaterOrEqual = x >= y;
         System.out.println(isGreaterOrEqual);
